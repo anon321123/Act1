@@ -106,7 +106,7 @@
           <div class="col-lg-8 content">
             <h2>BSITAGD Student</h2>
             <p class="fst-italic py-3">
-              I am Jose Lorenzo G. Tuazon a BSITAGD Student in FEU Tech.
+               am Jose Lorenzo G. Tuazon a BSITAGD Student in FEU Tech.
             </p>
             <div class="row">
               <div class="col-lg-6">
